@@ -9,6 +9,13 @@ export default {
     src: 'https://github.com/welber33.png',
     alt: 'João Welber',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
