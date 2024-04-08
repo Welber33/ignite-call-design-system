@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Heading, HeadingProps } from '@ignite-ui/react'
+import { Heading, HeadingProps } from '@welber33-ignite-ui/react'
 
 export default {
   title: 'Typograph/Heading',
