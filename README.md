@@ -9,3 +9,8 @@
 - [x] Checkbox
 - [x] Avatar
 - [x] MultiStep
+
+## Added Components to Complete Challenge
+
+- [ ] Toast
+- [x] Tooltip
