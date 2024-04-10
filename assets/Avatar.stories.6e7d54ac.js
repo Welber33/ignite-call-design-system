@@ -1,0 +1,2 @@
+import{A as t}from"./index.5daa8555.js";import"./index.97f824bb.js";import"./iframe.876f0e58.js";import"./extends.bd401154.js";import"./index.5e38128d.js";import"./jsx-runtime.7e869ade.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/welber33.png",alt:"Jo\xE3o Welber"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,m as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.6e7d54ac.js.map

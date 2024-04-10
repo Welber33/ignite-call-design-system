@@ -1,0 +1,2 @@
+import{t as o}from"./index.49559605.js";import"./iframe.876f0e58.js";import"./es.map.constructor.38617958.js";import"./es.number.to-fixed.f6805b3f.js";import"./index.97f824bb.js";import"./index.90be9988.js";const s={actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/}},docs:{theme:o.dark}};export{s as parameters};
+//# sourceMappingURL=preview.89669182.js.map
