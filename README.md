@@ -12,5 +12,5 @@
 
 ## Added Components to Complete Challenge
 
-- [ ] Toast
+- [x] Toast
 - [x] Tooltip
